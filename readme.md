@@ -37,6 +37,7 @@ repository/
 ├── customize_gui # class for adding gui elements
 ├── requirements.txt # the python packages needed to run locally
 ├── .gitignore # includes the local virtual environment named my_env
+├── rrt.py # methods needed for RRT and RRT*
 ├── .streamlit/
 │   └── config.toml # theme info for the UI
 └── docs/
