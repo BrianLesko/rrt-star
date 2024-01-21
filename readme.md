@@ -1,10 +1,10 @@
 
-# RRT
-This code implements Real Time RRT Tree search in a low code UI. This project is written in [Pure Python]() in under 50 lines of code. Created by Brian Lesko for Learning Purposes.
+# RRT* Search Algorithm for Robotic Path Planning
+This code implements Real Time RRT* Tree search in a low code UI. This project is written in [Pure Python]() in under 60 lines of code. Created by Brian Lesko for Learning Purposes.
 
 &nbsp;
 
-<div align="center"><img src="docs/preview.gif" width="800"></div>
+<div align="center"><img src="docs/preview.png" width="800"></div>
 
 &nbsp;
 
