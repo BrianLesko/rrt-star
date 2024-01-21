@@ -22,7 +22,7 @@ This code uses the following libraries:
 
 Run the following commands:
 ```
-pip install --upgrade streamlit libusb hidapi matplotlib modern_robotics
+pip install --upgrade streamlit matplotlib
 streamlit run https://raw.githubusercontent.com/BrianLesko/rrt-star/main/app.py
 ```
 
