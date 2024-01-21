@@ -1,6 +1,6 @@
 # Brian Lesko
-# 1/17/2024
-# RRT Class
+# 1/21/2024
+# RRT Star Search
 
 import numpy as np 
 
