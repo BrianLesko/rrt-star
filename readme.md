@@ -1,6 +1,6 @@
 
 # RRT* Search Algorithm for Robotic Path Planning
-This code implements Real Time RRT* Tree search in a low code UI. This project is written in [Pure Python]() in under 60 lines of code. Created by Brian Lesko for Learning Purposes.
+This code implements Real Time RRT* Tree search visualized in a low code UI. This project is written in [Pure Python](https://github.com/BrianLesko/rrt-star/blob/main/app.py) in under 60 lines of code. Created by Brian Lesko for Learning Purposes.
 
 &nbsp;
 
@@ -23,20 +23,10 @@ This code uses the following libraries:
 Run the following commands:
 ```
 pip install --upgrade streamlit libusb hidapi matplotlib modern_robotics
-streamlit run [REPLACE with github raw link to code]
+streamlit run https://raw.githubusercontent.com/BrianLesko/rrt-star/main/app.py
 ```
 
 This will start the local Streamlit server, and you can access the chatbot by opening a web browser and navigating to `http://localhost:8501`.
-
-&nbsp;
-
-## How it Works
-
-The app as follows:
-1. 
-2. 
-3. 
-4. 
 
 &nbsp;
 
@@ -57,10 +47,8 @@ repository/
 
 ## Topics 
 ```
-Python | Streamlit | Git | Low Code UI | control | real-time | real time control
-External device | HIDapi | decode bytes | PS5 | Sony | Dualsense | communication | Remote control 
-custom classes
-Self taught coding | Mechanical engineer | Robotics engineer
+Python | Streamlit | Git | Low Code UI | path planning | tree search | random trees 
+Mechanical engineer | Robotics engineer | Engineering
 ```
 &nbsp;
 
